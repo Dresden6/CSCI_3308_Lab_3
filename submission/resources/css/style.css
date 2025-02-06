@@ -1,0 +1,98 @@
+.icon-link {
+    
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    color: white;
+    
+}
+
+
+ /* box-shadow: 0 0 10px #afafaf, 
+    -1px -1px 2px #232323,
+    1px 1px 2px #1b1b1b; */
+
+.four-by-three {
+
+    aspect-ratio: 4/3;
+    object-fit: cover;
+
+}
+
+.hide-overflow {
+    overflow: hidden;
+}
+
+
+.glass {
+    background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(5px);
+    
+}
+
+.carousel-control-prev {
+    filter: invert(100%);
+}
+.carousel-control-next {
+    filter: invert(100%);
+}
+
+
+
+
+
+.resume-home-btn {
+    font-size: 2rem;
+    float:right; 
+    margin-right:20px; 
+    margin-top:-15px;
+
+}
+
+
+
+.big-table-header {
+
+    font-size: xx-large;
+}
+
+
+.table-auto {
+    margin-bottom: 50px;
+}
+
+.inconsolata {
+    font-family: "Inconsolata", serif;
+  }
+
+
+
+  .nav-background {
+
+    background-image: "../resources/img/maze.svg";
+    background-size: cover;
+
+  }
+
+
+
+
+.download-hover:hover {
+
+    color:rgb(255, 255, 255);
+
+    
+}
+
+
+
+.carousel-img {
+
+    aspect-ratio: 16/9;
+    object-fit: cover;
+
+}
+
+
+
